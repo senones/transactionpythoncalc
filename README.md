@@ -1,4 +1,4 @@
-# transactionpythoncalc
+# Transaction Manager Flask App
 Calculation tool created with flusk and python
 <img width="1355" alt="Bildschirmfoto 2024-10-25 um 20 02 33" src="https://github.com/user-attachments/assets/b1613b74-9bd8-44fc-8454-52c88b2ab084">
 Transaction Manager Flask App
